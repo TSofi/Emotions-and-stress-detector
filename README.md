@@ -11,7 +11,7 @@ Trained for 20 epochs, achieving ~65% test accuracy.
 Integrated with the main detection script for real-time emotion recognition.
 Note: Some emotions, such as "Disgust", are less accurately recognized due to dataset limitations.
 Model and original code available on https://github.com/TSofi
-In this project, the model is used in a simplified and integrated form.
+In this project, the model is used in a integrated form.
 
 Fatigue Detection via Facial Landmarks:
 
