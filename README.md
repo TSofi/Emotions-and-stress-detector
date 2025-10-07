@@ -10,8 +10,8 @@ Trained a ResNet18 model on the FER-2013 dataset (RGB images, batch size 64, Ada
 Trained for 20 epochs, achieving ~65% test accuracy.
 Integrated with the main detection script for real-time emotion recognition.
 Note: Some emotions, such as "Disgust", are less accurately recognized due to dataset limitations.
-Model and original code available on https://github.com/TSofi
-In this project, the model is used in a integrated form.
+Model and original code available on [https://github.com/TSofi](https://github.com/TSofi/face-emotion-recognition)
+In this project, the model is used in an integrated form.
 
 Fatigue Detection via Facial Landmarks:
 
@@ -29,3 +29,4 @@ The code can be extended to combine both components seamlessly in one unified ap
 Authors
 Sofiia Tretiak – Model training; full code and model hosted on GitHub (https://github.com/TSofi/face-emotion-recognition)
 Vitaliya Rabchynskaya – Mediapipe-based fatigue detection, real-time facial landmark tracking (https://github.com/V-tasya/Emotions-and-stress-detector)
+Developed as part of the Solvro Summer Challenge 2025
